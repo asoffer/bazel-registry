@@ -1,0 +1,7 @@
+{
+    "integrity": "sha384-kYagPmVz0y41uj03Xxp/Ui6cW+vzu8upXc0oBfuS/71LW//deXmJaCkc3dmJsH8t",
+    "strip_prefix": "jasmin-cc87a95b80098ad38dc97e0cb2283cc86a867097",
+    "url": "https://github.com/asoffer/jasmin/archive/cc87a95b80098ad38dc97e0cb2283cc86a867097.zip",
+    "patch_strip": 0,
+    "patches": {}
+}

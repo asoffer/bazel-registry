@@ -1,0 +1,6 @@
+module(
+    name = "nth-cc",
+    version = "20240125.00",
+    compatibility_level = 0,
+)
+bazel_dep(name = "abseil-cpp", repo_name = "com_google_absl", version = "20230125.1")

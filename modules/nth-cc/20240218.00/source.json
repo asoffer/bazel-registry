@@ -1,7 +1,7 @@
 {
-    "integrity": "sha384-wfYTtlsqXmoJvyYSIoE5Xp1r7BI2dYIg7s/r0XAbCIBbqaGPaayu34AbOyiiPERa",
-    "strip_prefix": "nth-a43a197794d24d26aca6cdf6f83d967929ebd76e",
-    "url": "https://github.com/asoffer/nth/archive/a43a197794d24d26aca6cdf6f83d967929ebd76e.zip",
+    "integrity": "sha384-3WzC8SPlzGbrz2LF2jeBM9dt8Wn4beNpzDqDlciBaUXYlOXYRs6K77+CurviGEYG",
+    "strip_prefix": "nth-d4294bc2a8e60b57c8a5e97893cd7376473a56d0",
+    "url": "https://github.com/asoffer/nth/archive/d4294bc2a8e60b57c8a5e97893cd7376473a56d0.zip",
     "patch_strip": 0,
     "patches": {}
 }

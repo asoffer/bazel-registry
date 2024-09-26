@@ -1,0 +1,6 @@
+module(
+    name = "nth-cc",
+    version = "20240925.00",
+    compatibility_level = 0,
+)
+bazel_dep(name = "abseil-cpp", version = "20240722.0")
